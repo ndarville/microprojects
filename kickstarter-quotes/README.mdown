@@ -1,0 +1,26 @@
+Kickstarter Quotes
+==================
+By editing the HTML of this document, you can produce fancy-looking pull to take a screenshot of and put on your Kickstarter project page.
+
+An easier solution is to to to either [JSFiddle][jsfiddle] or [CodePen][codepen] and edit the text there to get your screenshot.
+
+This project was created to help improve the look of the donation campaign for Eliot Higgins, better known as Brown Moses (more info in the example section).
+
+Screenshots
+-----------
+![Screenshot][screenshot]
+
+Examples
+--------
+* [The Brown Moses Blog Indiegogo campaign][brown-moses].
+
+
+License
+-------
+You are free to use this for your own Kickstarter project(s), but please drop me a note if you do—especially if you’ll allow me to include your project in my list of examples.
+
+
+[jsfiddle]:    http://jsfiddle.net/8tBxL/15/
+[codepen]:     http://codepen.io/ndarville/pen/DGbwr
+[screenshot]:  https://raw.github.com/ndarville/microprojects/master/kickstarter-quotes/screenshot.png
+[brown-moses]: http://www.indiegogo.com/projects/the-brown-moses-blog/x/2550379
