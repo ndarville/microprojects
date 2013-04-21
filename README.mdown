@@ -1,0 +1,18 @@
+Micro Projects
+==============
+This repo contains some minor itch-scratching projects that are too small to warrant their own repo. Nevertheless, they are worth sharing.
+
+[Kickstarter Quotes][k-quotes-project]
+--------------------
+![Screenshot for Kickstarter Quotes project][k-quotes-screen]
+
+
+[Partibogstaver 2011][bogstaver-project]
+---------------------
+![Screenshot for Partibogstaver 2011 project][bogstaver-screen]
+
+
+[k-quotes-project]:  https://github.com/ndarville/microprojects/tree/master/kickstarter-quotes
+[k-quotes-screen]:   https://raw.github.com/ndarville/microprojects/master/kickstarter-quotes/screenshot.png
+[bogstaver-project]: https://github.com/ndarville/microprojects/tree/master/partibogstaver-2011
+[bogstaver-screen]:  https://raw.github.com/ndarville/microprojects/master/partibogstaver-2011/screenshot.png
