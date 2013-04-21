@@ -4,7 +4,7 @@ body {
     font: bold 24px/1.5em "Open Sans";
 }
 
-div {
+.party-symbol {
     margin: 0.25em auto 0;
     padding: 0;  /** Edit */
     width: 1.5em;
