@@ -1,0 +1,50 @@
+Partibogstaver 2011
+===================
+
+What?
+-----
+This project—Danish for “(Political) Party Letters 2011”—contains the CSS and example HTML to re-create the letters symbolizing the [Danish political parties in parliament][wiki]:
+
+1. **A**, Social Democrats *(Socialdemokraterne)*
+2. **B**, Danish Social Liberal Party *(Radikale Venstre)*
+3. **C**, Conservative People’s Party *(Konservative Folkeparti)*
+4. **F**, Socialist People’s Party *(Socialistisk Folkeparti)*
+5. **I**, Liberal Alliance (same in English and Danish)
+6. **O**, Danish People’s Party *(Dansk Folkeparti)*
+7. **V**, Venstre (same in English and Danish)
+8. **Ø**, Red-Green Alliance *(Enhedslisten)*
+
+Why?
+----
+I personally aim to use it for [D3.js][d3js]-based charts of the past and present polling and election results for the parties. The main allure of the HTML/CSS-generated symbols is that they will scale to all sizes without any loss of quality.
+
+You could use them for any other purpose
+
+How?
+----
+I am basing the designs on those featured on [a website][inspiration] for the general election in 2011—and lazy as I am, the parties’ English names on [Wikipedia][wiki].
+
+You will note that two parties have not one but two letters: SF and DF. Their letter is actually F and O respectively, but I have not come by a design that contains their one-letter design.
+
+Screenshots
+-----------
+![Screenshot][screenshot]
+
+License
+-------
+[Attribution 3.0 Unported (CC BY 3.0)][license].
+
+Be it print or digital copy, the attribution should read:
+
+`Niclas Darville, ndarville.com`
+
+If the audience of your attribution is particularly technology-savvy, you can use this instead:
+
+`Niclas Darville, git.io/smyj8w`
+
+
+[wiki]:        https://en.wikipedia.org/wiki/Danish_political_parties
+[d3js]:        http://d3js.org/
+[inspiration]: http://folketingsvalg-2011.dk
+[screenshot]:  https://raw.github.com/ndarville/microprojects/master/partibogstaver-2011/screenshot.png
+[license]:     http://creativecommons.org/licenses/by/3.0/deed.en_GB
