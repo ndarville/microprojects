@@ -48,7 +48,7 @@ body {
 #f {
     background-color: #BF0418;
     color: #FFF;
-    padding: 0;
+    padding: 1px;
 }
 
 #i {
@@ -63,10 +63,8 @@ body {
 }
 
 #v {
+    border: none;
     color: #000080;
-    -webkit-border-radius: 50%;
-       -moz-border-radius: 50%;
-            border-radius: 50%;
 }
 
 #oe {
