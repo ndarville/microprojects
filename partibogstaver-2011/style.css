@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:700italic,800italic,700,800);
+
+body {
+    font: bold 24px/1.5em "Open Sans";
+}
+
+div {
+    margin: 0.25em auto 0;
+    padding: 0;  /** Edit */
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
+}
+
+#a, #i, #o {  /** Round logos */
+    -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+            border-radius: 50%;
+}
+
+#c, #f, #oe {  /** Oval logos */
+    -webkit-border-radius: 25%;
+       -moz-border-radius: 25%;
+            border-radius: 25%;
+}
+
+#f, #o {  /** Italic logos */
+    font-style: italic;
+}
+
+#a {
+    background-color: #C10B20;
+    border: 3px solid #FFF;
+    color: #FFF;
+}
+
+#b {
+    background-color: #ED008C;
+    color: #FFF;
+}
+
+#c {
+    border: 1px solid #00BF00;
+    color: #00BF00;
+}
+
+#f {
+    background-color: #BF0418;
+    color: #FFF;
+    padding: 0;
+}
+
+#i {
+    background-color: #F68921;
+    color: #FFF;
+}
+
+#o {
+    border: 1px solid #F81A40;
+    color: #0F50B4;
+    padding: 1px;
+}
+
+#v {
+    color: #000080;
+    -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+            border-radius: 50%;
+}
+
+#oe {
+    background-color: #C81141;
+    color: #FFF;
+}
