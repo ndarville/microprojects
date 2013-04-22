@@ -1,7 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:700italic,800italic,700,800);
 
 body {
-    font: bold 24px/1.5em "Open Sans";
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
+#example {
+  font-size: 24px;
+  line-height: 1.5em;
 }
 
 .party-symbol {
