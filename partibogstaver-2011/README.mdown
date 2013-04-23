@@ -5,14 +5,16 @@ What?
 -----
 This project—Danish for “(Political) Party Letters 2011”—contains the CSS and example HTML to re-create the letters symbolizing the [Danish political parties in parliament][wiki]:
 
-1. **A**, Social Democrats *(Socialdemokraterne)*
-2. **B**, Danish Social Liberal Party *(Radikale Venstre)*
-3. **C**, Conservative People’s Party *(Konservative Folkeparti)*
-4. **F**, Socialist People’s Party *(Socialistisk Folkeparti)*
-5. **I**, Liberal Alliance (same in English and Danish)
-6. **O**, Danish People’s Party *(Dansk Folkeparti)*
-7. **V**, Venstre (same in English and Danish)
-8. **Ø**, Red-Green Alliance *(Enhedslisten)*
+ Party Letter      | Party in English            | In Danish
+:------------------|:----------------------------|:-----------------------
+ **A**             | Social Democrats            | Socialdemokraterne
+ **B**             | Danish Social Liberal Party | Radikale Venstre
+ **C**             | Conservative People’s Party | Konservative Folkeparti
+ **F**             | Socialist People’s Party    | Socialistisk Folkeparti
+ **I**             | Liberal Alliance            | (Same.)
+ **O**             | Danish People’s Party       | Dansk Folkeparti
+ **V**             | Venstre                     | (Same.)
+ **Ø**             | Red-Green Alliance          | Enhedslisten
 
 Why?
 ----
