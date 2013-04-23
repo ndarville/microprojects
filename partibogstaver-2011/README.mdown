@@ -6,7 +6,7 @@ What?
 This project—Danish for “(Political) Party Letters 2011”—contains the CSS and example HTML to re-create the letters symbolizing the [Danish political parties in parliament][wiki]:
 
  Party Letter      | Party in English            | In Danish
-:------------------|:----------------------------|:-----------------------
+:-----------------:|:----------------------------|:-----------------------
  **A**             | Social Democrats            | Socialdemokraterne
  **B**             | Danish Social Liberal Party | Radikale Venstre
  **C**             | Conservative People’s Party | Konservative Folkeparti
